@@ -100,7 +100,7 @@ namespace SD1App
         private void ShowAbout(object sender, EventArgs e)
         {
             MessageBox.Show(
-                "SD1 Application v1.0\nCreated by Patrick [Surname]\nOrganization: VVK",
+                "SD1 Application v1.0\nCreated by Patrick Amarakuo\nOrganization: VVK",
                 "About",
                 MessageBoxButtons.OK,
                 MessageBoxIcon.Information
